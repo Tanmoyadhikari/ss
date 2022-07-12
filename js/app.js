@@ -16,4 +16,4 @@ setInterval(function(){
         document.querySelector(".slider_three").classList.remove("active");
     }
     
-},3000);
+},2500);
